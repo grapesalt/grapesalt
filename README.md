@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @grapesalt
+- 👀 I’m interested in computer graphics, game development and design
+- 🌱 I’m currently learning unity, fundamental of graphics programming
+- 💞️ I’m looking to collaborate on games, graphics or heck anything interesting
